@@ -1,0 +1,89 @@
+
+header {
+	margin: 50px;
+}
+
+#logo-image {
+	width: 140px;
+}
+
+.display-inline-block {
+	display: inline-block;
+}
+
+.menu li {
+	    color: #626262;
+    text-transform: uppercase;
+    margin-right: 75px;
+}
+
+.menu {
+	width: calc(100% - 144px);
+    text-align: right;
+}
+
+
+.menu li:last-of-type {
+   margin-right: 0px;
+}
+
+#logo-image, .menu {
+	vertical-align: middle;
+}
+
+.menu a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.menu li:hover {
+	opacity: 0.5;
+}
+
+.banner img {
+	width: 100%;
+}
+
+.banner {
+	padding: 0 50px;
+}
+
+.lstrok	{
+	text-transform: uppercase;opacity: 0.3; margin-top: 50px; 
+}
+.section {
+	margin: 155px;margin-top: 125px;margin-right: 47px;
+}
+
+.bstrok {
+	font-family: arial; font-size: 40px;color: #635f5f; margin-top:  50px; margin-bottom:  50px; 
+}
+
+.ushrift {
+	color: #635f5f; opacity: 0.8; font-family: arial;line-height: 30px;font-size: 9px;
+}
+footer {
+	background-color: #eaeaea; padding: 35px;padding-left: 0px;
+}
+
+
+.vnizu{
+	margin-left: 155px;
+font-size: 23px;
+
+}
+.vnizu-sprava{
+
+display: inline-block;padding-left: 44%;
+}
+.vnizu-sleva {
+	display: inline-block;text-decoration: none;
+}
+.vnizu a{
+	text-decoration: none;
+	color: black;
+
+}
+.sleva {
+	padding-right: 19px;
+}
